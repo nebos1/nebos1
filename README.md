@@ -1,5 +1,5 @@
 ## Hi there!👋
-#### I am Nikolay Todorov. Self-learning software developer, exploring the depths of the craft.
+### I am Nikolay Todorov. Self-learning software developer, exploring the depths of the craft.
 
 #### 👨‍💻 My curent tech stack:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -11,11 +11,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-##### ✨ Version control via:
+#### ✨ Version control via:
 ![Trello](https://img.shields.io/badge/Trello_Board-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nebos1)
 
 
-##### 🔗 You can find me on:
+#### 🔗 You can find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niki-todorov-19632a3b5/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](niki.htodorov@gmail.com)
