@@ -13,7 +13,7 @@
 
 ##### ✨ Version control via:
 ![Trello](https://img.shields.io/badge/Trello_Board-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/](https://github.com/nebos1))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nebos1)
 
 
 ##### 🔗 You can find me on:
