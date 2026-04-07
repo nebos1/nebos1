@@ -1,7 +1,7 @@
 ## Hi there!👋
 ### I am Nikolay Todorov. Self-learning software developer, exploring the depths of the craft.
 
-#### 👨‍💻 My curent learning tech stack:
+#### 👨‍💻 My current learning tech stack:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
